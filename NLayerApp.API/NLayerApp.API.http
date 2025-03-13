@@ -1,0 +1,6 @@
+@NLayerApp.API_HostAddress = http://localhost:5242
+
+GET {{NLayerApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
